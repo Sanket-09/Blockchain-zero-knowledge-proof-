@@ -1,27 +1,3 @@
-LAND MANAGEMENT SYSTEM
-
-CONTENT OF THE FILE
-----------------------------------------------------
-*GROUP DETAILS
-
-*PROJECT DESCRIPTION
-
-*STEPS
-
-*FUNCTION DETAILS
-
-----------------------------------------------------
-GROUP NUMBER 26-
-NAME:                     BITS ID:
-
-Sanket Jaiswal           2020AAPS0356H
-
-Manan Gupta              2020A2PS2420H
-
-Anant Kumar              2020AAPS2211H
-
-Yash Gupta               2021B4A72699H
-
 
 ----------------------------------------------------
 ABOUT THE PROJECT:
